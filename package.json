@@ -1,0 +1,23 @@
+{
+  "name": "cycer-deployments",
+  "description": "Cycer contract artifacts (ABIs) and deployed addresses",
+  "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Cycer",
+    "email": "hi@cycer.com",
+    "url": "https://cycer.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cycer-exchange/cycer-deployments.git"
+  },
+  "homepage": "https://cycer.io/",
+  "keywords": [
+    "cycer",
+    "exchange",
+    "deployments",
+    "artifacts",
+    "metadata"
+  ],
+  "version": "2023.2.8-1675827569356"
+}
