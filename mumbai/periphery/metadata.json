@@ -1,0 +1,36 @@
+{
+  "chainId": 80001,
+  "contracts": {
+    "LimitOrderBook": {
+      "address": "0xBF511a499951E04762EDB18893e430cc377bBaf0",
+      "createdBlockNumber": 13870078,
+      "name": "contracts/limitOrder/LimitOrderBook.sol:LimitOrderBook"
+    },
+    "LimitOrderRewardVault": {
+      "address": "0x721000AfbD288404635fF217e813de932be64843",
+      "createdBlockNumber": 13870061,
+      "name": "contracts/limitOrder/LimitOrderRewardVault.sol:LimitOrderRewardVault"
+    },
+    "Multicall2": {
+      "address": "0x6ff4eD5762b2681fBdb81Fa900D03fdDc7e3495c",
+      "createdBlockNumber": 514515,
+      "name": "contracts/lens/Multicall2.sol:Multicall2"
+    },
+    "PerpPortal": {
+      "address": "0xf4A9C4Dd88E6C8565193A1777d73395705129291",
+      "createdBlockNumber": 1106197,
+      "name": "contracts/lens/PerpPortal.sol:PerpPortal"
+    },
+    "Quoter": {
+      "address": "0x73007622D8c5D1D11DB728353412f997fd9B7368",
+      "createdBlockNumber": 3634988,
+      "name": "contracts/lens/Quoter.sol:Quoter"
+    }
+  },
+  "externalContracts": {
+    "DefaultProxyAdmin": "0x423A435865D5D3707C013BF0a1F60214BcFe6538",
+    "PERP": "0x1550D549B92c30E9B2Da76753570f7115462B8e2",
+    "PerpetualProtocolReferrer": "0xbfBa3368d94b8b006A4fd59C13b9e9F9b071D106"
+  },
+  "network": "mumbai"
+}
