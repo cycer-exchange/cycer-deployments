@@ -131,9 +131,9 @@
   "externalContracts": {
     "DefaultProxyAdmin": "0xde6A7377B64734Fabb3B0Ed4724A5479Ee391705",
     "FRAX": "",
-    "TestUSDT": "",
+    "TestUSDT": "0x61cf1EC5cA60f00BcE04B970551d451634c0de3c",
     "TestUST": "",
-    "TestWBTC": "",
+    "TestWBTC": "0xFB9156A03271a851E73282AF4580B66DaEd8A902",
     "USDC": "0x58ed5E60B9223dB143A6EeC998e8c232A45E119B",
     "USDT": "0x61cf1EC5cA60f00BcE04B970551d451634c0de3c",
     "UniswapV3Factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
