@@ -67,6 +67,11 @@
       "createdBlockNumber": 29715600,
       "name": "contracts/ChainlinkPriceFeedV2.sol:ChainlinkPriceFeedV2"
     },
+    "TST1USDChainlinkPriceFeedV2": {
+      "address": "0x9DfE5D887A45d76253f3Ed3E56B3873D2240Ccdf",
+      "createdBlockNumber": 29715600,
+      "name": "contracts/ChainlinkPriceFeedV2.sol:ChainlinkPriceFeedV2"
+    },
     "Exchange": {
       "address": "0xD80dA49c09B2F399511BfC9440DD44480F752F5d",
       "createdBlockNumber": 30006074,
@@ -132,6 +137,11 @@
       "createdBlockNumber": 30006065,
       "name": "contracts/BaseToken.sol:BaseToken"
     },
+    "vTST1": {
+      "address": "0x037440bf8287396bbB51e84DEDdd14F1292412B5",
+      "createdBlockNumber": 30006065,
+      "name": "contracts/BaseToken.sol:BaseToken"
+    },
     "QuoteToken": {
       "address": "0x414B95164ad0db54693DD980cEe6D74ab0EF0219",
       "createdBlockNumber": 30006065,
@@ -169,6 +179,13 @@
       "address": "0xBfBA27E4a87ca6B4f5D9AC8921C9db0E997123F4",
       "baseAddress": "0x3b2470a9c98f3cce9accbf584c7a13e2e1574f4b",
       "baseSymbol": "vBAYC",
+      "quoteAddress": "0x414B95164ad0db54693DD980cEe6D74ab0EF0219",
+      "quoteSymbol": "vUSD"
+    },
+    {
+      "address": "0x02af4268b479d72c1fed46f64fd3e6fa272b1adc",
+      "baseAddress": "0x037440bf8287396bbB51e84DEDdd14F1292412B5",
+      "baseSymbol": "vTST1",
       "quoteAddress": "0x414B95164ad0db54693DD980cEe6D74ab0EF0219",
       "quoteSymbol": "vUSD"
     }
