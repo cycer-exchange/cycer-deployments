@@ -2,17 +2,10 @@
   "chainId": 80001,
   "collaterals": [
     {
-      "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
-      "decimals": 18,
-      "name": "Wrapped Ether",
-      "priceFeedAddress": "0xc3F7119D081bdA5bfF8C4Fc066F5C02e9da8C713",
-      "symbol": "WETH"
-    },
-    {
       "address": "0x61cf1EC5cA60f00BcE04B970551d451634c0de3c",
       "decimals": 6,
       "name": "Tether USD",
-      "priceFeedAddress": "0xF2DE61855139eCa1EaEBB8D21c9fE8C7F692FA94",
+      "priceFeedAddress": "0x7e2ab896cef864f4CfFeE2aFeaB699A5B5A96a95",
       "symbol": "USDT"
     }
   ],
@@ -69,6 +62,11 @@
     },
     "TST1USDChainlinkPriceFeedV2": {
       "address": "0x9DfE5D887A45d76253f3Ed3E56B3873D2240Ccdf",
+      "createdBlockNumber": 29715600,
+      "name": "contracts/ChainlinkPriceFeedV2.sol:ChainlinkPriceFeedV2"
+    },
+    "USDTUSDChainlinkPriceFeedV2": {
+      "address": "0x7e2ab896cef864f4CfFeE2aFeaB699A5B5A96a95",
       "createdBlockNumber": 29715600,
       "name": "contracts/ChainlinkPriceFeedV2.sol:ChainlinkPriceFeedV2"
     },
